@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars tile="cars">
+	<car category="sedan" id="0">
+		<carID>0</carID>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>BMW</brand>
+		<model>320i</model>
+		<modelYear>2014</modelYear>
+		<mileage>21000</mileage>
+		<fuelType>diesel</fuelType>
+		<seats>5</seats>
+		<pricePerDay>240</pricePerDay>
+		<description>The BMW 320i is known for one of the best option for...</description>
+	</car> 
+	<car category="sedan" id="1">
+		<carID>1</carID>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>Toyota</brand>
+		<model>Camry</model>
+		<modelYear>2013</modelYear>
+		<mileage>10000</mileage>
+		<fuelType>petrol</fuelType>
+		<seats>5</seats>
+		<pricePerDay>120</pricePerDay>
+		<description>The Toyota Camry is known for one of the best option for...</description>
+	</car> 
+	<car category="SUV" id="2">
+		<carID>2</carID>
+		<category>SUV</category>
+		<availability>N</availability>
+		<brand>Holden</brand>
+		<model>Captiva</model>
+		<modelYear>2012</modelYear>
+		<mileage>69000</mileage>
+		<fuelType>diesel</fuelType>
+		<seats>7</seats>
+		<pricePerDay>400</pricePerDay>
+		<description>The Holden Captiva is known for one of the best option for...</description>
+	</car> 
+	<car category="SUV" id="3">
+		<carID>3</carID>
+		<category>SUV</category>
+		<availability>Y</availability>
+		<brand>Jeep</brand>
+		<model>Cherokee</model>
+		<modelYear>2015</modelYear>
+		<mileage>89000</mileage>
+		<fuelType>petrol</fuelType>
+		<seats>7</seats>
+		<pricePerDay>350</pricePerDay>
+		<description>The Cherokee Jeep is known for one of the best option for...</description>
+	</car> 
+	<car category="sedan" id="4">
+		<carID>4</carID>
+		<category>sedan</category>
+		<availability>N</availability>
+		<brand>Honda</brand>
+		<model>Civic</model>
+		<modelYear>2014</modelYear>
+		<mileage>12000</mileage>
+		<fuelType>petrol</fuelType>
+		<seats>5</seats>
+		<pricePerDay>140</pricePerDay>
+		<description>The Honda Civic is known for one of the best option for...</description>
+	</car> 
+	<car category="wagon" id="5">
+		<carID>5</carID>
+		<category>wagon</category>
+		<availability>N</availability>
+		<brand>Mercedes</brand>
+		<model>GLC</model>
+		<modelYear>2011</modelYear>
+		<mileage>40000</mileage>
+		<fuelType>cng</fuelType>
+		<seats>5</seats>
+		<pricePerDay>180</pricePerDay>
+		<description>The Mercedes GLC is known for one of the best option for...</description>
+	</car> 
+	<car category="wagon" id="6">
+		<carID>6</carID>
+		<category>wagon</category>
+		<availability>Y</availability>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<modelYear>2017</modelYear>
+		<mileage>13586</mileage>
+		<fuelType>cng</fuelType>
+		<seats>5</seats>
+		<pricePerDay>180</pricePerDay>
+		<description>The Volkswagen Golf is known for one of the best option for...</description>
+	</car> 
+	<car category="wagon" id="7">
+		<carID>7</carID>
+		<category>wagon</category>
+		<availability>Y</availability>
+		<brand>Suzuki</brand>
+		<model>Jimny</model>
+		<modelYear>2010</modelYear>
+		<mileage>21500</mileage>
+		<fuelType>petrol</fuelType>
+		<seats>5</seats>
+		<pricePerDay>110</pricePerDay>
+		<description>The Suzuki Jimny is known for one of the best option for...</description>
+	</car> 
+	<car category="sedan" id="8">
+		<carID>8</carID>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>Hyundai</brand>
+		<model>Sonata</model>
+		<modelYear>2016</modelYear>
+		<mileage>11500</mileage>
+		<fuelType>diesel</fuelType>
+		<seats>5</seats>
+		<pricePerDay>130</pricePerDay>
+		<description>The Hyundai Sonata is known for one of the best option for...</description>
+	</car> 
+	<car category="SUV" id="9">
+		<carID>9</carID>
+		<category>SUV</category>
+		<availability>Y</availability>
+		<brand>Nissan</brand>
+		<model>X-trail</model>
+		<modelYear>2015</modelYear>
+		<mileage>36782</mileage>
+		<fuelType>petrol</fuelType>
+		<seats>7</seats>
+		<pricePerDay>360</pricePerDay>
+		<description>The Nissan X-Trail is known for one of the best option for...</description>
+	</car> 
+</cars> 
